@@ -1,0 +1,6 @@
+{
+  "name": "Swift Earn",
+  "description": "Legitimate rewards platform where users can complete eligible rewarded advertising opportunities and receive rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
